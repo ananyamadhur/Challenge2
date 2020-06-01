@@ -1,6 +1,3 @@
-/*var d = new Date();
-var n = d.toTimeString() ;
-  document.getElementById("clock").innerHTML = n;*/
 
 /* theme switcher */
 function darkMode() {
